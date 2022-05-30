@@ -1,0 +1,5 @@
+- Hello, I’m @PlayKO-Production (or PlayKO on social media) 
+- I’m interested in gaming and programming
+- I’m currently trying learn python
+- I'm from Ukraine, Kremenchuk
+- You can find me on [TikTok](http://tiktok.com/@playko1337) or on [YouTube](https://www.youtube.com/c/PlayKO_)

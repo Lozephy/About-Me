@@ -1,4 +1,4 @@
-- Hello, I’m @PlayKO-Production (or PlayKO on social media) 
+- Hello, I’m PlayKO
 - I’m interested in gaming and programming
 - I’m currently trying learn python
 - I'm from Ukraine, Kremenchuk
